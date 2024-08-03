@@ -3,9 +3,8 @@
 
 int main(){
 	
-	printf("helo world");
-	printf("helo world");
-	printf("helo world");
-	printf("helo world");
+	printF("ahmed saeed");
+	printF("ahmed saeed");
+	printF("ahmed saeed");
 	
 }
